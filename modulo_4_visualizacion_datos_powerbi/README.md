@@ -53,7 +53,7 @@ Crear un dashboard que facilite el análisis del comportamiento de los clientes,
 
 * Creación de tablas y estructuración de la base de datos, facilitando el almacenamiento y acceso a los datos.  
     
-![BBDD relación tablas](https://github.com/Paulamc1695/adalab_data_analytics_proyectos/blob/main/image.png)
+![BBDD relación tablas](https://github.com/Paulamc1695/adalab_data_analytics_proyectos/blob/main/modulo_4_visualizacion_datos_powerbi/image.png)
 
 ### **Fase 4. Análisis y visualización en Dashboard en Power BI**
 
@@ -128,7 +128,7 @@ Si deseas conectar o aprender más sobre este proyecto, no dudes en visitar el p
 - [Paula Martínez](https://www.linkedin.com/in/paulamartinezcantero/)  
 - [Yaiza Matesanz](https://www.linkedin.com/in/yaiza-matesanz-aviles/) 
 
-![Innova Consulting Logo](https://github.com/Paulamc1695/adalab_data_analytics_proyectos/blob/main/innova_consulting_circle_logo.png)
+![Innova Consulting Logo](https://github.com/Paulamc1695/adalab_data_analytics_proyectos/blob/main/modulo_4_visualizacion_datos_powerbi/innova_consulting_circle_logo.png)
 
 Equipo Innova Consulting S.L.
 
