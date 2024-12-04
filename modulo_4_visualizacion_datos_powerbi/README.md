@@ -1,4 +1,4 @@
-# **Proyecto de Análisis de Tendencias de Ventas para Datatech Solutions**
+# **PROYECTO DE ANÁLISIS DE TENDENCIAS DE VENTAS PARA DATATECH SOLUTIONS**
 
 Bienvenido/a al proyecto de análisis de tendencias de ventas, comportamiento de clientes y optimización del inventario para **Datatech Solutions**. Este documento detalla las fases del proyecto y sus resultados.
 
@@ -6,7 +6,11 @@ Bienvenido/a al proyecto de análisis de tendencias de ventas, comportamiento de
 
 ## **📌 Tabla de Contenidos**
 
-• **Fases del Proyecto**  
+• **Contexto del proyecto**
+
+• **Objetivo del proyecto**
+
+• **Fases del proyecto**  
    * Fase 1. Análisis exploratorio de datos (EDA)  
    * Fase 2. Limpieza y Transformación de datos  
    * Fase 3. Creación de base de datos en SQL Workbench  
@@ -16,9 +20,22 @@ Bienvenido/a al proyecto de análisis de tendencias de ventas, comportamiento de
      * Comportamiento de clientes  
      * Optimización del inventario  
 
-• **Conclusión**  
+• **Conclusión del proyecto**  
 
-• **Contacto**  
+• **Contacto del equipo técnico** 
+
+---
+
+## **📄 Contexto del proyecto**
+
+DataTech Solutions es una gran empresa líder en el sector de la tecnología y el comercio electrónico, con una base de clientes en constante crecimiento. La compañía se esfuerza por ofrecer productos de alta calidad y un excelente servicio al cliente.
+
+A lo largo de las últimas semanas, la empresa ha estado recopilando datos de ventas, productos y clientes, los cuales son fundamentales para realizar un análisis profundo de tendencias de ventas, comportamiento de los consumidores y optimización del
+inventario, permitiendo a la empresa tomar decisiones estratégicas basadas en datos.
+
+## **🎯 Objetivo del proyecto**
+
+Crear un dashboard que facilite el análisis del comportamiento de los clientes, la identificación de tendencias y la optimización del inventario. Además, se desarrollará una base de datos para almacenar los datos limpios. El proceso abarca un análisis exploratorio, limpieza de datos y la creación de visualizaciones interactivas en Power BI para ofrecer insights estratégicos.
 
 ---
 
@@ -98,18 +115,22 @@ Bienvenido/a al proyecto de análisis de tendencias de ventas, comportamiento de
 
 ---
 
-## **📈 Conclusión**
+## **📈 Conclusión del proyecto**
 
 Este proyecto proporciona un marco sólido para entender y optimizar las operaciones de **Datatech Solutions** a través del análisis de datos. La implementación de visualizaciones efectivas en Power BI permite una mejor toma de decisiones estratégicas y operativas.
 
 ---
 
-## 📱 **Contacto**
+## 📱 **Contacto equipo técnico**
 Si deseas conectar o aprender más sobre este proyecto, no dudes en visitar el perfil de **LinkedIn**: 
 
 - [Yael Parra](https://www.linkedin.com/in/yael-parra/)  
 - [Paula Martínez](https://www.linkedin.com/in/paulamartinezcantero/)  
 - [Yaiza Matesanz](https://www.linkedin.com/in/yaiza-matesanz-aviles/) 
+
+Equipo Innova Consulting S.L.
+
+
 
 **¡Gracias por explorar este proyecto!**  
 Si tienes alguna pregunta o sugerencia, no dudes en contactarnos.
