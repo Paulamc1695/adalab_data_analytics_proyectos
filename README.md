@@ -4,7 +4,8 @@
 
 Aquí encontrarás un conjunto de proyectos centrados en el análisis de datos.
 
-📢 Cada proyecto ha sido desarrollado de manera colaborativa por integrantes de la Promoción Julia Robinson del bootcamp. 
+📢 Cada proyecto ha sido desarrollado de manera colaborativa por integrantes de la Promoción Julia Robinson del bootcamp.
+
     Los datos de contacto de las colaboradoras están incluidos en el archivo README de cada proyecto correspondiente.
 
 ---
