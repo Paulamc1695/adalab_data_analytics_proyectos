@@ -1,13 +1,13 @@
 # **REPOSITORIO DE PROYECTOS DE DATA ANALYTICS**
 
 ✨ **¡Bienvenido/a a este repositorio!**✨
- 
+
 Aquí encontrarás un conjunto de proyectos centrados en el análisis de datos.
 
 📢 Cada proyecto ha sido desarrollado de manera colaborativa por integrantes de la Promoción Julia Robinson del bootcamp. 
     Los datos de contacto de las colaboradoras están incluidos en el archivo README de cada proyecto correspondiente.
 
---
+---
 
 Todos los proyectos se llevaron a cabo bajo los principios del marco de trabajo **Agile**, priorizando: 
 
@@ -17,7 +17,7 @@ Todos los proyectos se llevaron a cabo bajo los principios del marco de trabajo 
 - **Mejora continua y constante** en cada iteración para optimizar y adaptar los procesos.
 - **Product Owner**, para gestionar las prioridades del backlog, asegurando que el equipo trabaje en las tareas más valiosas para el cliente.
 
--- 
+---
 
 ## 🗂️ Repositorio de proyectos por Módulos
 
@@ -26,7 +26,7 @@ Todos los proyectos se llevaron a cabo bajo los principios del marco de trabajo 
 - **Módulo 3.** Transformación de datos, creación de base de datos, visualización de datos y A/B Testing con Python + MySQL
 - **Módulo 4.** Transformación de datos, creación de base de datos y visualización de datos con Python + MySQL + Power BI
 
---
+---
 
 ## 📱 **Contacto**
 
