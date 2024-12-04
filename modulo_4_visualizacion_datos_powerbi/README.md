@@ -121,7 +121,7 @@ Este proyecto proporciona un marco sólido para entender y optimizar las operaci
 
 ---
 
-## 📱 **Contacto equipo técnico**
+## 📱 **Contacto del equipo técnico**
 Si deseas conectar o aprender más sobre este proyecto, no dudes en visitar el perfil de **LinkedIn**: 
 
 - [Yael Parra](https://www.linkedin.com/in/yael-parra/)  
