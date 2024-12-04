@@ -1,46 +1,44 @@
-# **📊 Proyecto de Análisis de Tendencias de Ventas para Datatech Solutions**
+# **Proyecto de Análisis de Tendencias de Ventas para Datatech Solutions**
 
-Bienvenido al proyecto de análisis de tendencias de ventas, comportamiento de clientes y optimización del inventario para **Datatech Solutions**. Este documento detalla las fases del proyecto y sus resultados.
+Bienvenido/a al proyecto de análisis de tendencias de ventas, comportamiento de clientes y optimización del inventario para **Datatech Solutions**. Este documento detalla las fases del proyecto y sus resultados.
 
 ---
 
 ## **📌 Tabla de Contenidos**
 
-1. **Fases del Proyecto**  
-   * EDA  
-   * Limpieza y Transformación  
-   * Base de Datos en SQL  
-   * Análisis  
-   * Graficar en Dashboard en Power BI  
+*** Fases del Proyecto**  
+   * Fase 1. Análisis exploratorio de datos (EDA) 
+   * Fase 2. Limpieza y Transformación de datos
+   * Fase 3. Creación de base de datos en SQL Workbench  
+   * Fase 4. Análisis y visualización en Dashboard en Power BI  
      * Informe de Ventas  
      * Tendencia de Ventas  
      * Comportamiento de Clientes  
      * Optimización del Inventario  
-2. **Conclusión**
+*** Conclusión**
+*** Contacto**
 
 ---
 
-## **1️⃣ Fases del Proyecto**
+## **🗂️ Fases del Proyecto**
 
-### **1.1 EDA (Análisis Exploratorio de Datos)**
+### **Fase 1. Análisis exploratorio de datos (EDA)**
 
 * Exploración inicial de los datos para identificar patrones, tendencias y anomalías.
 
-### **1.2 Limpieza y Transformación**
+### **Fase 2. Limpieza y Transformación de datos**
 
 * Proceso de depuración y ajuste de datos, asegurando la calidad y consistencia necesaria para el análisis.
 
-### **1.3 Base de Datos en SQL**
+### **Fase 3. Creación de base de datos en SQL Workbench**
 
 * Creación de tablas y estructuración de la base de datos, facilitando el almacenamiento y acceso a los datos.  
     
 ![BBDD relación tablas](https://github.com/Yael-Parra/proyecto-da-j-modulo4-equipo/blob/main/image.png)
 
-### **1.4 Análisis**
+### **Fase 4. Análisis y visualización en Dashboard en Power BI**
 
 * Evaluación detallada de las tendencias de ventas y comportamiento de los clientes, utilizando técnicas estadísticas y visuales.
-
-### **1.5 Graficar en Dashboard en Power BI**
 
 * Visualización de los resultados a través de un dashboard interactivo que permite un fácil acceso y análisis de la información.
 
@@ -105,11 +103,11 @@ Este proyecto proporciona un marco sólido para entender y optimizar las operaci
 ---
 
 ## 📱 **Contacto**
-Si deseas conectar o aprender más sobre este proyecto, no dudes en visitar el perfil de **LinkedIn**: [Yael Parra](https://www.linkedin.com/in/yael-parra/) 💼 
-                                                                                                      [Paula Martinez](https://www.linkedin.com/in/yael-parra/)
-                                                                                                      [Yaiza Matesanz](https://www.linkedin.com/in/yaiza-matesanz-aviles/)
+Si deseas conectar o aprender más sobre este proyecto, no dudes en visitar el perfil de **LinkedIn**: 
 
----
+- [Yael Parra](https://www.linkedin.com/in/yael-parra/)  
+- [Paula Martínez](https://www.linkedin.com/in/paulamartinezcantero/)  
+- [Yaiza Matesanz](https://www.linkedin.com/in/yaiza-matesanz-aviles/) 
 
 **¡Gracias por explorar este proyecto!**  
-Si tienes alguna pregunta o sugerencia, no dudes en contactarnos. 🙌
+Si tienes alguna pregunta o sugerencia, no dudes en contactarnos.

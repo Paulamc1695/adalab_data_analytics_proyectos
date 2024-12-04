@@ -3,6 +3,6 @@
 ## Repositorio de proyectos por Módulos
 
 - **Módulo 1.** Programación de juegos arcade con Python
-- **Módulo 2.** Extracción de Datos con Python + MySQL
-- **Módulo 3.** Transformación de Datos
-- **Módulo 4.** Visualización de Datos con Power BI
+- **Módulo 2.** Extracción de datos y creación de base de datos con Python + MySQL
+- **Módulo 3.** Transformación de datos, creación de base de datos, visualización de datos y A/B Testing con Python + MySQL
+- **Módulo 4.** Transformación de datos, creación de base de datos y visualización de datos con Python + MySQL + Power BI
