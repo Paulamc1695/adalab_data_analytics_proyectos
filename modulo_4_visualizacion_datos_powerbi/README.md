@@ -128,10 +128,6 @@ Si deseas conectar o aprender más sobre este proyecto, no dudes en visitar el p
 - [Paula Martínez](https://www.linkedin.com/in/paulamartinezcantero/)  
 - [Yaiza Matesanz](https://www.linkedin.com/in/yaiza-matesanz-aviles/) 
 
-<img src="https://raw.githubusercontent.com/Paulamc1695/adalab_data_analytics_proyectos/main/modulo_4_visualizacion_datos_powerbi/innova_consulting_circle_logo.png" alt="Innova Consulting Logo" style="width: 150px;"/>
-
-
-Equipo Innova Consulting S.L.
 
 El proyecto se llevó a cabo bajo los principios del marco de trabajo **Agile**, priorizando:  
 - La colaboración entre los miembros del equipo.  
@@ -141,3 +137,7 @@ El proyecto se llevó a cabo bajo los principios del marco de trabajo **Agile**,
 
 **¡Gracias por explorar este proyecto!**  
 Si tienes alguna pregunta o sugerencia, no dudes en contactarnos.
+
+**Equipo Innova Consulting S.L.**
+
+![Innova Consulting Logo](https://raw.githubusercontent.com/Paulamc1695/adalab_data_analytics_proyectos/main/modulo_4_visualizacion_datos_powerbi/innova_consulting_circle_logo.png)
