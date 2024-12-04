@@ -6,17 +6,19 @@ Bienvenido/a al proyecto de análisis de tendencias de ventas, comportamiento de
 
 ## **📌 Tabla de Contenidos**
 
-*** Fases del Proyecto**  
-   * Fase 1. Análisis exploratorio de datos (EDA) 
-   * Fase 2. Limpieza y Transformación de datos
+• **Fases del Proyecto**  
+   * Fase 1. Análisis exploratorio de datos (EDA)  
+   * Fase 2. Limpieza y Transformación de datos  
    * Fase 3. Creación de base de datos en SQL Workbench  
    * Fase 4. Análisis y visualización en Dashboard en Power BI  
-     * Informe de Ventas  
-     * Tendencia de Ventas  
-     * Comportamiento de Clientes  
-     * Optimización del Inventario  
-*** Conclusión**
-*** Contacto**
+     * Informe de ventas  
+     * Tendencia de ventas  
+     * Comportamiento de clientes  
+     * Optimización del inventario  
+
+• **Conclusión**  
+
+• **Contacto**  
 
 ---
 
