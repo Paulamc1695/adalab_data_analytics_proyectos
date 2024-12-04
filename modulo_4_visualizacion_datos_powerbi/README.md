@@ -129,10 +129,13 @@ Si deseas conectar o aprender más sobre este proyecto, no dudes en visitar el p
 - [Yaiza Matesanz](https://www.linkedin.com/in/yaiza-matesanz-aviles/) 
 
 
-El proyecto se llevó a cabo bajo los principios del marco de trabajo **Agile**, priorizando:  
-- La colaboración entre los miembros del equipo.  
-- Entregas frecuentes y funcionales en iteraciones cortas.  
-- La capacidad de adaptarse rápidamente a los cambios en los requisitos o necesidades del cliente.  
+El proyecto se llevó a cabo bajo los principios del marco de trabajo **Agile**, priorizando: 
+
+- **Colaboración abierta y transparente** entre el equipo, promoviendo un entorno de trabajo colaborativo.
+- **Entregas frecuentes en iteraciones cortas (sprints)**, entregando avances constantes y de calidad.
+- **Scrum Master**, para facilitar el proceso y eliminar obstáculos para maximizar la eficiencia y la productividad del equipo.
+- **Mejora continua y constante** en cada iteración para optimizar y adaptar los procesos.
+- **Product Owner**, para gestionar las prioridades del backlog, asegurando que el equipo trabaje en las tareas más valiosas para el cliente.
 
 
 **¡Gracias por explorar este proyecto!**  
