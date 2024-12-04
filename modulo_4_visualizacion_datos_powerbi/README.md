@@ -128,7 +128,8 @@ Si deseas conectar o aprender más sobre este proyecto, no dudes en visitar el p
 - [Paula Martínez](https://www.linkedin.com/in/paulamartinezcantero/)  
 - [Yaiza Matesanz](https://www.linkedin.com/in/yaiza-matesanz-aviles/) 
 
-<img src="https://raw.githubusercontent.com/Paulamc1695/adalab_data_analytics_proyectos/main/innova_consulting_circle_logo.png" alt="Innova Consulting Logo" width="150">
+![Innova Consulting Logo](<img src="https://raw.githubusercontent.com/Paulamc1695/adalab_data_analytics_proyectos/main/innova_consulting_circle_logo.png" alt="Innova Consulting Logo" width="150">)
+
 
 Equipo Innova Consulting S.L.
 
