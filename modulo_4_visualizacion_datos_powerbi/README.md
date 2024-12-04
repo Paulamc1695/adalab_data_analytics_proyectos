@@ -140,4 +140,4 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactarnos.
 
 **Equipo Innova Consulting S.L.**
 
-![Innova Consulting Logo](https://raw.githubusercontent.com/Paulamc1695/adalab_data_analytics_proyectos/main/modulo_4_visualizacion_datos_powerbi/innova_consulting_circle_logo.png)
+![Innova Consulting Logo](https://github.com/Paulamc1695/adalab_data_analytics_proyectos/blob/main/modulo_4_visualizacion_datos_powerbi/innova_consulting_circle_logo.png)
