@@ -1,6 +1,6 @@
 # **REPOSITORIO DE PROYECTOS DE DATA ANALYTICS**
 
-✨ **¡Bienvenido/a a este repositorio!**✨
+**✨ ¡Bienvenido/a a este repositorio! ✨**
 
 Aquí encontrarás un conjunto de proyectos centrados en el análisis de datos.
 
