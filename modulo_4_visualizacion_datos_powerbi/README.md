@@ -1,4 +1,4 @@
-# **PROYECTO DE ANÁLISIS DE TENDENCIAS DE VENTAS PARA DATATECH SOLUTIONS**
+# **PROYECTO DE ANÁLISIS Y VISUALIZACIÓN DE TENDENCIAS, COMPORTAMIENTO Y OPTIMIZACIÓN**
 
 Bienvenido/a al proyecto de análisis de tendencias de ventas, comportamiento de clientes y optimización del inventario para **Datatech Solutions**. Este documento detalla las fases del proyecto y sus resultados.
 
@@ -128,9 +128,14 @@ Si deseas conectar o aprender más sobre este proyecto, no dudes en visitar el p
 - [Paula Martínez](https://www.linkedin.com/in/paulamartinezcantero/)  
 - [Yaiza Matesanz](https://www.linkedin.com/in/yaiza-matesanz-aviles/) 
 
-(https://github.com/Paulamc1695/adalab_data_analytics_proyectos/blob/main/innova_consulting_circle_logo.png)
+![Innova Consulting Logo](https://github.com/Paulamc1695/adalab_data_analytics_proyectos/blob/main/innova_consulting_circle_logo.png)
 
 Equipo Innova Consulting S.L.
+
+El proyecto se llevó a cabo bajo los principios del marco de trabajo **Agile**, priorizando:  
+- La colaboración entre los miembros del equipo.  
+- Entregas frecuentes y funcionales en iteraciones cortas.  
+- La capacidad de adaptarse rápidamente a los cambios en los requisitos o necesidades del cliente.  
 
 
 **¡Gracias por explorar este proyecto!**  
